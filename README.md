@@ -1,2 +1,2 @@
 # coffee-sales-dashboard
-Interactive Coffee Sales Analysis Dashboard built using Excel. Includes sales insights based on product, location, time, and category with dynamic filters and visualizations.
+An interactive Excel-based Coffee Sales Dashboard delivering insights on product performance, sales trends, and store-wise analysis using dynamic visualizations.
