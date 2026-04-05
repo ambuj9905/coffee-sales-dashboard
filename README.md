@@ -87,5 +87,7 @@ The dataset used in this project includes coffee shop transaction data with attr
   
 8. ## 📷 Dashboard Preview
 
-![Coffee Sales Dashboard](Coffee Sales Analysis.png)
+<p align="center">
+  <img src="https://github.com/ambuj9905/coffee-sales-dashboard/blob/main/Coffee%20Sales%20Analysis.png?raw=true" width="700">
+</p>
 
