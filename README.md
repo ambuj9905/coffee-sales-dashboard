@@ -10,6 +10,12 @@ The dataset used in this project includes coffee shop transaction data with attr
 🔗 Dataset Link: https://drive.google.com/file/d/1oZGTtLaAEpI2Gy0gWxUk1YYAsi-DYcnr/view
 
 
+## 🛠️ Tools Used
+- Microsoft Excel  
+- Pivot Tables  
+- Data Visualization (Charts & Dashboard)
+
+
 ## 📊 Key Performance Indicators (KPIs)
 
 * **Total Sales Revenue** – Overall revenue generated from coffee sales
@@ -78,4 +84,8 @@ The dataset used in this project includes coffee shop transaction data with attr
    * Analyzed peak sales hours
    * Compared store performance
    * Evaluated customer preferences
+  
+8. ## 📷 Dashboard Preview
+
+![Coffee Sales Dashboard](Coffee Sales Analysis.png)
 
